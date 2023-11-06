@@ -17,7 +17,7 @@
 - 따라서 이러한 비용을 줄이고자 Connection Pool이 등장했다.
 - `Connection : 연결`  + `Pool :  웅덩이(?) or 모으다` ⇒ 연결을 모아놓은?!
 
-![figure_1.png](DB%20Connection%20Pool%20aa56458517e6401a8cc22c199979ad70/figure_1.png)
+![figure_1](https://github.com/GeumBi-Hong/BackEnd-Study/assets/58154655/0d72a297-9e99-4ad0-bf52-e8ca3ff08986)
 
 
 - **데이터베이스와 연결된 커넥션을 미리 만들어 놓고 이를 Pool에서 관리**한다는 것을 의미한다.
